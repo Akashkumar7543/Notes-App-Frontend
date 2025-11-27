@@ -299,28 +299,7 @@ docker run -p 3000:3000 notes-app-frontend
 - `npm run lint` - Run ESLint
 - `npm run type-check` - Run TypeScript compiler check
 
-## 🐛 Known Issues & Future Improvements
 
-### Current Limitations
-- None currently identified
-
-### Future Enhancements
-- Add note sharing functionality
-- Implement categories/tags for notes
-- Add search and filter capabilities
-- Enable markdown support in rich text editor
-- Add dark mode toggle
-- Implement offline support with service workers
-
-## 📄 License
-
-This project is created as part of a Full Stack Developer Assignment.
-
-## 👥 Author
-
-[Your Name]
-
-## 📞 Support
 
 For issues or questions, please create an issue in the repository or contact the development team.
 
